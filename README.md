@@ -9,7 +9,7 @@
 - ❤️ Node, ReactJS, React Native, Typescript
 ---
 
-- :yt: Youtube: https://www.youtube.com/c/ClewertonRoque
+- Youtube: https://www.youtube.com/c/ClewertonRoque
 - Telegram: https://t.me/clewerton
 - Medium: https://medium.com/@clewerton203
 
