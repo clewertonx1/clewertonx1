@@ -8,7 +8,11 @@
 - 💻 Criador de conteudo
 - ❤️ Node, ReactJS, React Native, Typescript
 ---
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ClewertonRoque)](https://www.youtube.com/c/ClewertonRoque) 
+
+- Youtube: https://www.youtube.com/c/ClewertonRoque
+- Telegram: https://t.me/clewerton
+- Medium: https://medium.com/@clewerton203
+
 <!--
 **clewertonx1/clewertonx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
