@@ -9,6 +9,7 @@
 - ❤️ Node, ReactJS, React Native, Typescript
 ---
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ClewertonRoque)](https://www.youtube.com/c/ClewertonRoque) 
+[![medium](./src/medium.svg)](https://aleen42.github.io/badges/src/medium.svg)
 <!--
 **clewertonx1/clewertonx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
