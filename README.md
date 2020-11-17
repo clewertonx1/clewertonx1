@@ -3,12 +3,10 @@
 
 ### Hello World, I'm Clewerton Roque 🤯
 --- 
-Estudante de Ciencias da computaçao no IFCE 📚
-<br>
-Criador de conteudo no youtube 💻 
-<br>
-Node, ReactJS, React Native, Typescript ❤️
----
+
+- 📚 Estudante de Ciencias da computaçao no IFCE
+- 💻 Criador de conteudo no youtube  
+- ❤️ Node, ReactJS, React Native, Typescript
 
 <!--
 **clewertonx1/clewertonx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
