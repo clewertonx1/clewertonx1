@@ -4,9 +4,8 @@
 ### Hello World, I'm Clewerton Roque 🤯
 --- 
 Estudante de Ciencias da computaçao no IFCE 📚
-Criador de conteudo no youtube 🧑🏾‍💻 
-Node, ReactJS, React Native, Typescript 💻
-
+Criador de conteudo no youtube 💻 
+Node, ReactJS, React Native, Typescript ❤️
 
 
 <!--
