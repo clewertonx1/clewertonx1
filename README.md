@@ -1,7 +1,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-### Hello World I'm Clewerton Roque🌎
+### Hello World, I'm Clewerton Roque 🤯
 --- 
 Estudante de Ciencias da computaçao no IFCE 📚
 
