@@ -1,5 +1,12 @@
-### Hi there 🤓👋
+
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+
+### Hello World 🌎
+--- 
+Estudante de Ciencias da computaçao no IFCE 📚
+
+
+
 <!--
 **clewertonx1/clewertonx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
