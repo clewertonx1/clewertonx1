@@ -5,7 +5,7 @@
 --- 
 
 - 📚 Estudante de Ciencias da computaçao no IFCE
-- 💻 Criador de conteudo no youtube  
+- 💻 Criador de conteudo no youtube  [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ClewertonRoque)](https://www.youtube.com/c/ClewertonRoque) 
 - ❤️ Node, ReactJS, React Native, Typescript
 
 <!--
