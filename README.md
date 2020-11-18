@@ -8,7 +8,7 @@
 - 💻 Criador de conteudo
 - ❤️ Node, ReactJS, React Native, Typescript
 ---
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)  
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/clewerton)](https://t.me/clewerton) 
 
 
 - Youtube: https://www.youtube.com/c/ClewertonRoque
