@@ -9,9 +9,9 @@
 - ❤️ Node, ReactJS, React Native, Typescript
 ---
 
-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/clewerton)](https://t.me/clewerton) 
-- [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@clewerton203)](https://medium.com/@clewerton203)
-- [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ClewertonRoque)](https://www.youtube.com/c/ClewertonRoque) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/clewerton)](https://t.me/clewerton) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@clewerton203)](https://medium.com/@clewerton203)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ClewertonRoque)](https://www.youtube.com/c/ClewertonRoque) 
 
 
 
