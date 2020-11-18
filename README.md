@@ -8,6 +8,7 @@
 - 💻 Criador de conteudo
 - ❤️ Node, ReactJS, React Native, Typescript
 ---
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://t.me/clewerton)](https://t.me/clewerton)
 
 - Youtube: https://www.youtube.com/c/ClewertonRoque
 - Telegram: https://t.me/clewerton
