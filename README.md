@@ -5,7 +5,7 @@
 --- 
 - 📚 Estudante de Ciencias da computaçao no IFCE
 - 💻 Criador de conteudo
-
+- ❤️ Node, ReactJS, React Native, Typescript
 ---
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/clewerton)](https://t.me/clewerton) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@clewerton203)](https://medium.com/@clewerton203)
