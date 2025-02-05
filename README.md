@@ -3,9 +3,9 @@
 
 ### Hello World, I'm Clewerton Roque <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> 
 --- 
-- 📚 Estudante de Ciencias da computaçao no IFCE
+- 📚 Formado em Ciencias da computaçao no IFCE
 - 💻 Criador de conteudo
-- ❤️ Node, ReactJS, React Native, Typescript
+- ❤️ Kotlin, Java, Node, ReactJS, Typescript
 ---
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/clewerton)](https://t.me/clewerton) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@clewerton203)](https://medium.com/@clewerton203)
